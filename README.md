@@ -1,6 +1,6 @@
 # 🎉 Infinix Events
 
-🚀 **Live Demo:** YOUR_VERCEL_URL
+🚀 **Live Demo:** https://infinix-events.vercel.app/
 
 A modern and responsive event management platform built using **React, TypeScript, Vite, and Tailwind CSS**. The platform enables users to discover, explore, and book events through an engaging and user-friendly interface.
 
