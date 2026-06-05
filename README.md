@@ -143,7 +143,7 @@ infinix-events/
 
 Experience the application live:
 
-**🔗 https://infinix-events.vercel.app/** YOUR_VERCEL_URL
+**🔗 https://infinix-events.vercel.app/** 
 
 Explore event listings, galleries, booking features, authentication pages, and more through the deployed application.
 
